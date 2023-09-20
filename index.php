@@ -1,4 +1,4 @@
 <?php
-echo "Meu primeiro codigo php! <strong >Ola Mundo</strong>";
-
+echo "Meu primeiro codigo php! <strong >Ola Mundo123</strong>";
+echo "olha Hcode"
 ?>
