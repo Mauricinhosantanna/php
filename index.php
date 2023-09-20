@@ -1,4 +1,4 @@
 <?php
-echo "Meu primeiro codigo php! <strong >Hello word</strong>";
-// teste de importação
+echo "Meu primeiro codigo php! <strong >Ola Mundo</strong>";
+
 ?>
